@@ -40,3 +40,6 @@ If you having problems(BLE can glitch sometimes)
 ### If you have trouble installing bluepy
 
 ```sudo apt-get install libglib2-dev  ```
+
+### Fix I/O Error on hcitool lescan
+```service bluetooth restart```
